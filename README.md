@@ -21,10 +21,10 @@ Here's what I'm currently working with:
 ## GitHub Stats
 
 ### Personal Account
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=marioalejandrom&show_icons=true&theme=default)](https://github.com/marioalejandrom)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=marioalejandrom&show_icons=true&theme=default&count_private=true)](https://github.com/marioalejandrom)
 
 ### Work Account
-[![Work GitHub Stats](https://github-readme-stats.vercel.app/api?username=mario-morales-bds&show_icons=true&theme=default)](https://github.com/mario-morales-bds)
+[![Work GitHub Stats](https://github-readme-stats.vercel.app/api?username=mario-morales-bds&show_icons=true&theme=default&count_private=true)](https://github.com/mario-morales-bds)
 
 ## Tech Stack
 
